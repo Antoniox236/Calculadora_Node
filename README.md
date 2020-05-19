@@ -1,3 +1,3 @@
 ## Multiplicar consola app
-Ejecutar comando
-npm install
+
+Mostrar tabla de multiplicar en consola y archivo txt
